@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<--
+<!--
 - 🔭 I’m currently working on gravitational waves modelling.
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on data analysis topic. 
